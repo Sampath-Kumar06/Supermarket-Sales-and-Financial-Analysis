@@ -23,4 +23,4 @@ The dashboard provides an in-depth view of the supermarket's operations, focusin
 
 Explore the full analysis and drill-down into the data yourself by visiting the live dashboard:
 
-**["https://github.com/Perapoguvijay/Supermarket-Sales-and-Finance-Analysis-Dashboard/blob/main/Screenshot%202025-10-25%20164820.png"]**
+**["https://github.com/Sampath-Kumar06/Supermarket-Sales-and-Finance-Analysis-Dashboard/blob/main/Screenshot%202025-10-25%20164820.png"]**
